@@ -1,8 +1,8 @@
 DeLorean Data
 =============
 
-This R package contains large data sets for the ['DeLorean
-package'](https://github.com/JohnReid/DeLorean).
+This R package contains large data sets for the [DeLorean
+package](https://github.com/JohnReid/DeLorean).
 
 
 
