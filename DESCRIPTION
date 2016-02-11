@@ -3,9 +3,11 @@ Title: Data for the DeLorean package
 Version: 1.0.0
 Authors@R: c(person("John", "Reid", role = c("aut", "cre"),
              email = "john.reid@mrc.bsu.cam.ac.uk"))
-Description: Data for the DeLorean package
-Depends: R (>= 3.2.3)
-License: MIT
+Description: Data for the DeLorean package.
+Depends:
+    R (>= 3.2.3)
+License: MIT + file LICENSE
 LazyData: true
 URL: https://github.com/JohnReid/DeLoreanData
 BugReports: https://github.com/JohnReid/DeLoreanData/issues
+RoxygenNote: 5.0.1
