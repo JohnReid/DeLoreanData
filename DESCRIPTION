@@ -2,7 +2,7 @@ Package: DeLoreanData
 Title: Data for the DeLorean package
 Version: 1.0.0
 Authors@R: c(person("John", "Reid", role = c("aut", "cre"),
-             email = "john.reid@mrc.bsu.cam.ac.uk"))
+             email = "john.reid@mrc-bsu.cam.ac.uk"))
 Description: Data for the DeLorean package.
 Depends:
     R (>= 3.2.3)
