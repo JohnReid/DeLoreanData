@@ -21,6 +21,14 @@
 #'
 #' @source \url{http://www.nature.com/nbt/journal/v32/n4/full/nbt.2859.html}
 #'
+#' @examples
+#' data(TrapnellDeLorean)
+#' nrow(trapnell.cell.meta)
+#' names(trapnell.cell.meta)
+#' nrow(trapnell.gene.meta)
+#' names(trapnell.gene.meta)
+#' dim(trapnell.expr)
+#'
 NULL
 
 #' Single cell expression data and meta data from McDavid et al. (2014).
@@ -49,6 +57,14 @@ NULL
 #' }
 #'
 #' @source \url{http://www.ploscompbiol.org/article/info\%3Adoi\%2F10.1371\%2Fjournal.pcbi.1003696}
+#'
+#' @examples
+#' data(McDavidDeLorean)
+#' nrow(mcdavid.cell.meta)
+#' names(mcdavid.cell.meta)
+#' nrow(mcdavid.gene.meta)
+#' names(mcdavid.gene.meta)
+#' dim(mcdavid.expr)
 #'
 NULL
 
@@ -86,5 +102,13 @@ NULL
 #' }
 #'
 #' @source \url{www.cell.com/article/S1934590910001141/abstract}
+#'
+#' @examples
+#' data(TangDeLorean)
+#' nrow(tang.pcr.cell.meta)
+#' names(tang.pcr.cell.meta)
+#' nrow(tang.pcr.gene.meta)
+#' names(tang.pcr.gene.meta)
+#' dim(tang.pcr)
 #'
 NULL
